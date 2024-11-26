@@ -1,0 +1,1 @@
+Fine tuning CodeLlama-7b-hf on b-mc2/sql-create-context dataset for creating SQL queries based on Natural Language instruction based on Philschmid blogpost. Trained on A100 for 3 epochs on 10,000 training samples.
