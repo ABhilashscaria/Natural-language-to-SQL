@@ -2,7 +2,7 @@ This project demonstrates how to fine-tune the codellama/CodeLlama-7b-hf model u
 
 Inspired by @philschmid's blogpost on LLaMA fine-tuning.
 
-##🔧 Project Overview
+##Project Overview
 
 Model: CodeLlama-7b-hf
 
@@ -18,7 +18,7 @@ Precision: 4-bit QLoRA (NF4)
 
 Trainer: trl’s SFTTrainer with Hugging Face PEFT & bitsandbytes
 
-##📁 Dataset Format
+##Dataset Format
 
 Dataset contains messages with:
 - `context`: Natural language description of a schema/table
