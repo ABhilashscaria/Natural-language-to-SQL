@@ -1,7 +1,7 @@
-This project demonstrates how to fine-tune the codellama/CodeLlama-7b-hf model using the b-mc2/sql-create-context dataset from Hugging Face to generate SQL query from natural language descriptions.
+This project demonstrates how to fine-tune the codellama/CodeLlama-7b-hf model using the b-mc2/sql-create-context dataset from Hugging Face to generate SQL query from natural language descriptions.Inspired by @philschmid's blogpost on LLaMA fine-tuning.
 
-Inspired by @philschmid's blogpost on LLaMA fine-tuning.
 Fine-tuned model:https://huggingface.co/Abhilashscaria/code-llama-7b-text-to-sql
+
 ## Project Overview
 
 Model: CodeLlama-7b-hf
