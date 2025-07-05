@@ -53,7 +53,9 @@ Dataset contains messages with:
 ## Output from finetuned model
 Query:
 What is every institution with a nickname of Ravens?
+
 Original Answer:
 SELECT institution FROM table_262514_1 WHERE nickname = "Ravens"
+
 Generated Answer:
 SELECT institution FROM table_262514_1 WHERE nickname = "Ravens"
